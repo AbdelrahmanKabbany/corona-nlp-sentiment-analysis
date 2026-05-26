@@ -50,7 +50,3 @@ project-name/
 
 ---
 
-# Author
-
-AbdelrahmanKabbany
-
